@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: wisecow-container
-          image: your-registry/your-repo:your-tag
+          image: PankajTijare/wisecow:latest
           ports:
             - containerPort: 3000
